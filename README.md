@@ -1,2 +1,2 @@
 # csci2041
-Tis repo consists of questions and code for OCaml programming language
+This repo consists of questions (cpurse_files) and code (rest of the files) for OCaml programming language.
